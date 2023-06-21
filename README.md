@@ -1,8 +1,8 @@
-# github
+# 直升机简介
 
 Copter 是一种先进的开源自动驾驶系统，适用于多旋翼飞行器、直升机和其他旋翼飞行器。它提供了从全手动到全自动的各种飞行模式。
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 作为更广泛的ArduPilot软件平台的一部分，它与各种地面控制站程序无缝协作，这些程序用于设置车辆，实时监控车辆的飞行并执行强大的任务规划活动。它还受益于ArduPilot生态系统的其他部分，包括模拟器，日志分析工具和用于车辆控制的更高级别的API。
 
