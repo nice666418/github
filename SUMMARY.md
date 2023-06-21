@@ -1,4 +1,4 @@
 # Table of contents
 
-* [github](README.md)
+* [直升机简介](README.md)
 * [Page 1](page-1.md)
